@@ -73,13 +73,13 @@ class Visitors extends React.Component {
 class App extends React.Component {
     render() {
         return(
-        <div class="page">
-            <Sidebar />
-            <Reviews />
-            <Rating />
-            <Analysis />
-            <Visitors />
-        </div>
+            <div class="page">
+                <Sidebar />
+                <Reviews />
+                <Rating />
+                <Analysis />
+                <Visitors />
+            </div>
         )
     }
     
